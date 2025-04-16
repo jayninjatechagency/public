@@ -1,4 +1,4 @@
-# Laravel Database Designer – Visual E-R Diagram & Schema Builder for Laravel
+# Laravel Database 
 
 ![Laravel Database Designer](public/logo.svg)
 
